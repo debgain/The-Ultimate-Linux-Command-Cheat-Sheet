@@ -1,4 +1,4 @@
-# 🚀 The Ultimate Linux Command Cheat Sheet 🚀
+# Linux Essential Command
 
 ```bash
 ls: List files and directories in the current directory.
